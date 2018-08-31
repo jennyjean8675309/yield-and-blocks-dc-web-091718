@@ -11,5 +11,5 @@ end
 
 array = ["Tim", "Tom", "Jim"]
 
-def hello_t(array)
+hello_t(array)
   
